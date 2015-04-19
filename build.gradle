@@ -19,7 +19,7 @@ apply plugin: 'forge'
 
 version = "0.1"
 group= "com.mrmakeit.flightfeather" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "filghtfeather"
+archivesBaseName = "flightfeather"
 
 minecraft {
     version = "1.7.10-10.13.3.1370-1.7.10"
